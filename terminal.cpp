@@ -91,7 +91,7 @@ void write_terminal(uint8_t byte){
             Serial.write(byte);  // Send character
             char_counter++;
         }
-        // Apple 1 screen is only 48 characters wide
+        // UK101 screen is only 48 characters wide
         if (char_counter == 48){
             Serial.println();  // Send newline
             char_counter = 0;
