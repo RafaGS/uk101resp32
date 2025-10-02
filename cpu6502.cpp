@@ -19,7 +19,6 @@
 
 #include "cpu6502.h"
 #include "motherboard.h"
-#include "motherboard.h"
 
 // Interrupt vectors
 #define IRQ_VECTOR 0xFFFE
