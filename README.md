@@ -82,8 +82,8 @@ Más información en Minibots: [https://minibots.wordpress.com/2025/09/29/emulad
 3. **Compilar y subir**:
    ```bash
    cd airesp32
-   arduino-cli compile --fqbn esp32:esp32:esp32 airesp32.ino
-   arduino-cli upload --fqbn esp32:esp32:esp32 --port /dev/ttyUSB0 airesp32.ino
+   arduino-cli compile --fqbn esp32:esp32:esp32 uk101resp32.ino
+   arduino-cli upload --fqbn esp32:esp32:esp32 --port /dev/ttyUSB0 uk101resp32.ino
    ```
 
 ### Configuración del Terminal
