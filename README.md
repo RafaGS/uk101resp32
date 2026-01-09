@@ -13,6 +13,8 @@ El emulador incluye:
 
 Más información en Minibots: [https://minibots.wordpress.com/2025/09/29/emulador-de-compukit-uk101-con-esp32]
 
+Más sobre retroinformática aquí: [https://minibots.wordpress.com/retroinformatica/]
+
 ## 🏗️ Arquitectura
 
 ### Componentes Principales
